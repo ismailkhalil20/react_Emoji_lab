@@ -2,7 +2,7 @@
 
 
 ## Overview
-You're given a list of emoji characters with their description. 
+You're given a [api](https://emoji-api.com/) of emoji characters with their description. 
 <br>
 Create an emoji searching webpage where the user can insert the description into an input that searches through the given array and then shows the data in the component.
 
